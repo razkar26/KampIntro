@@ -1,6 +1,10 @@
 # KampIntro
 Yazılım Geliştirici Yetiştirme Kamp Uygulamaları-
 
+
+
+
+
 Egitmen: Engin DEMİROĞ
 
 Ögrenci: Remzi AZKAR
